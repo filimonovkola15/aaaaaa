@@ -1,0 +1,55 @@
+.fon {
+  border-radius: 10px;
+  background-color: #50ae55;
+  box-shadow: 0 0 5px 2px;
+  margin: 0 auto;
+  width: 450px;
+  height: 320px;
+  position: relative;
+  top: 80px;
+
+}
+  
+.collor{ 
+color: white;
+
+}
+
+.form-control{
+	top: 400px;
+}
+
+
+.button24 {
+  position: relative;
+  top: 75px;
+
+  display: inline-block;
+  color: white;
+  text-decoration: none;
+  padding: .4em 1em;
+  outline: none;
+  border-width: 2px 0;
+  border-style: solid none;
+  border-color: #FDBE33 #000 #D77206;
+  border-radius: 6px;
+  background: linear-gradient(#F3AE0F, #E38916) #E38916;
+  transition: 0.2s;
+} 
+.button24:hover { background: linear-gradient(#f5ae00, #f59500) #f5ae00; }
+.button24:active { background: linear-gradient(#f59500, #f5ae00) #f59500; }
+
+.button25{
+
+position: absolute;
+text-decoration: none;
+top:265px;
+color: white; 
+left: 180px;
+
+}
+.button25:hover { 
+    text-decoration: underline;
+}
+
+ 
